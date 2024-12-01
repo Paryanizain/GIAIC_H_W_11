@@ -27,7 +27,7 @@ const CarsArray = () => {
           key={index}
           className="bg-slate-300 flex items-center justify-center gap-2 py-12"
         >
-          <div className="bg-blue-300 flex flex-col md:flex-row w-3/12 text-center p-4">
+          <div className="bg-blue-300 flex flex-col w-3/12 text-center p-4">
             <Image
               src={cn.image}
               alt={cn.carname}
