@@ -31,8 +31,8 @@ const CarsArray = () => {
             <Image
               src={cn.image}
               alt={cn.carname}
-              height={300}
-              width={300}
+              height={400}
+              width={400}
               className="object-cover"
             />
             <h1
